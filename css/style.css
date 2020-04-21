@@ -1,0 +1,82 @@
+h3 {
+  font-size: 3rem !important;
+  font-style: bold !important;
+  font-family: "Bree Serif", serif;
+}
+
+.slider .indicators .indicator-item.active {
+  background-color: #6f4037 !important;
+}
+
+.nav-wrapper {
+  background-color: #6f4037;
+}
+
+.sidenav a {
+  text-decoration: none;
+}
+  
+.nav-wrapper > a {
+  text-decoration: none;
+  font-family: "Pacifico", cursive;
+}
+
+.header {
+  padding: 20px;
+  font-family: "Bree Serif", serif;
+}
+
+.header1 {
+  font-family: "Bree Serif", serif;
+}
+
+.carousel {
+  height: 350px !important;
+}
+
+.parallax-container {
+  min-height: 280px;
+  height: auto;
+}
+
+.icon-coffee {
+  color: #6f4037;
+}
+
+.page-footer {
+  background: #6f4037 !important;
+}
+
+.page-footer .white-text {
+  font-family: "Bree Serif", serif;
+}
+
+.fcards .grey-text {
+  font-family: "Bree Serif", serif;
+}
+
+@media (max-width: 992px) {
+  .nav-wrapper > a:hover {
+    color: black;
+  }
+  
+  .carousel {
+    height: 150px !important;
+  }
+
+  .descrip img {
+    margin-top: 10px;
+  }
+}
+  
+@media (min-width: 992px) {
+  .nav-wrapper > a {
+     padding-left: 35px;
+  }
+  
+  .caption {
+     margin-top: 50px !important;
+      
+  }
+}
+  
